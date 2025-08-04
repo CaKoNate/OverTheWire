@@ -80,28 +80,3 @@ Copy the output. This is the password for **bandit33**.
 
 ---
 
-## ✅ Completion
-
-🎉 You’ve officially finished all levels of the **Bandit** wargame!
-
----
-
-## ➕ What’s Next?
-
-Now that you’ve mastered:
-
-- File manipulation  
-- Permissions  
-- Crons  
-- Scripting  
-- Git internals  
-- Shell escaping  
-
-You’re ready for more:
-
-- 🌟 [Narnia](https://overthewire.org/wargames/narnia/)  
-- 🛡️ [PicoCTF](https://picoctf.org/)  
-- 🕵️ [TryHackMe](https://tryhackme.com/)  
-- 🧠 [HackTheBox](https://hackthebox.com/)  
-
-Happy hacking! 🧑‍💻
